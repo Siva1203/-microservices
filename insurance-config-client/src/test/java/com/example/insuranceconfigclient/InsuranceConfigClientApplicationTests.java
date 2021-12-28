@@ -1,0 +1,13 @@
+package com.example.insuranceconfigclient;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class InsuranceConfigClientApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}

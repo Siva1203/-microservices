@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: siva
+  cloud:
+    consul:
+      config:
+        fail-fast: true
+      host: 192.168.0.185
+      port: 8500
